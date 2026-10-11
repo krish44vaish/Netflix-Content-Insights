@@ -7,7 +7,7 @@
 
 [SQL Analysis (Code)](https://github.com/krish44vaish/Netflix-Content-Insights/blob/main/Netflix_SQL_Analysis.sql)
 
-[Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1)
+[Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/krish.vaish/viz/NetflixShowsMoviesDashboard_17917159651650/Dashboard1?publish=yes)
 
 - **Business Problem:** Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
 
